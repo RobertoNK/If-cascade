@@ -1,0 +1,10 @@
+Here's a simplied version of the Beaufort scale, which is
+used to measure wind force:
+
+speed(knots)	Description
+less than 1	calm
+1-3		Light air
+4-27		Breeze
+28-47		Gale
+48-63		Storm
+Above 63	Hurricane
